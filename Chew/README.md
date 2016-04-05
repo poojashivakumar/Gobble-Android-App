@@ -1,2 +1,0 @@
-# Chew
-Android app
