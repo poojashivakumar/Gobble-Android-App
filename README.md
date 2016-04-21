@@ -1,1 +1,24 @@
 # Gobble-Android-App
+
+- This is an android mobile app that allows users to order home cooked food.
+- This app uses firebase to store persistent real time data of the users.
+- Firebase is also used to store and idsplay the rating and reviews of the user.
+- User is allowed to SignUp/SignIn/Skip the login page.
+- User can login through facebook.
+- User can filter the list based on home cook name, item name or cusine.
+- User is allowed to change his password.
+- Geocoder is used to implement the functionality for the user to view near by homecooks.
+- Implemented maps in order for the user to get directions from current location.
+- Implemented continuos voise recognision that can place order ones the user is ready for checkout.
+- Used phone sensors for clearing the filter by shaking the phone.
+- A navigation drawer is implemented for about, help and signout.
+- Implemented call intent for the user to call the homecooks to place order.
+- Implemented camera intent , such that user can click pictures and ass reviews to homecooks.
+- The user can enter reviews and ratings along with a picture of the food item that is stored in firebase.
+- Broadcast notification is implemented for the user to receive a notification when the order is ready for pickup.
+- Widgets are implemented for fast access of important functionalities of the app.
+- Various features of andoid are used like:
+  - Use of various layouts i.e Linear Layout, Frame Layout
+  - Use of fragments in every activity to seperate the top and bottom toolbar from the main content
+  - Use of phone sensors.
+  - Use of Google maps API.
